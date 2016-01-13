@@ -19,7 +19,7 @@ above two steps.
 <br>
 1.Download h-rider-1.0.9-SNAPSHOT.jar from the h-rider/target Folder<br>
 2.CD to the directory where you have placed the downloaded jar file<br>
-3.java -cp rider-1.0.9-SNAPSHOT.jar <b>hrider.ui.forms.Window</b>
+3.java -cp rider-1.0.9-SNAPSHOT.jar <b>hrider.ui.forms.Window</b><br>
 4.Give "localhost" for Zookeeper if you are running hbase locally<br>
 5.Port number will be  2181.
 </p>
