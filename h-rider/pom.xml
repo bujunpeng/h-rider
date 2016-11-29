@@ -168,7 +168,7 @@
 						</manifest>
 						<manifestEntries>
 							<version>${project.version}</version>
-							<hbaseVersion>${hbase.version}</hbaseVersion>
+                            <hbaseVersion>${hbase.version}</hbaseVersion>
 						</manifestEntries>
 					</archive>
 				</configuration>
